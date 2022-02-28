@@ -1,0 +1,202 @@
+body{
+        background: grey;
+        font-family: Lato;
+}
+
+.container{
+        width: 1000px;
+        margin: 0 auto;
+}
+
+.clear {
+        clear: both;
+}
+
+
+/*----------------------------------------------------------------------------- 
+02=LAYOUT  
+-----------------------------------------------------------------------------*/
+
+.main{
+        float:left;
+        background: white;
+        width: 59%;
+        padding: 0px 20px;
+        border-radius: 10px 0 10px 10px;
+}
+.sidebar{
+        float:left;
+        margin-left: 1%;
+        border-left: 3px  solid grey;
+        border-bottom: 2px  solid grey; 
+        background: white;
+        width: 40%;
+        padding: 40px;
+        border-radius: 0 10px 10px 0;
+}
+
+/*----------------------------------------------------------------------------- 
+03=MAIN  
+-----------------------------------------------------------------------------*/
+.header, .footer{
+        color: white;
+}
+a{
+        text-decoration: none;
+        font-weight: bolder;
+        color: skyblue;
+}
+h1{
+        font-size: 3.5rem;
+        margin: 40px 0 0 0;
+}
+.sub-heading{
+        margin-bottom: 10px;
+        font-size:1rem; 
+}
+h2{
+        font-size: 2rem;
+}
+h3{
+}
+
+}
+p{
+        padding: 5px;
+}
+.sub-para{
+        color: grey;
+        margin-bottom: 1px;
+}
+hr{
+        color: grey;
+}
+.vishesh{
+        border-radius: 50%;
+        margin-bottom: 20px;
+        width: 100%;
+}
+.font{
+        font-weight: bold;
+        margin-bottom: 50px;
+}
+ul{
+        margin: 10px;
+}
+blockquote{
+        margin: 20px 0;
+        padding: 10px;
+        font-style: italic;
+        border-left: 4px grey solid;
+        background: #ddd;
+}
+
+
+.footer{
+        font-weight: bold;
+        margin: 15px 0;
+}
+body{
+        background: grey;
+        font-family: Lato;
+}
+
+.container{
+        width: 1000px;
+        margin: 0 auto;
+}
+
+.clear {
+        clear: both;
+}
+
+
+/*----------------------------------------------------------------------------- 
+02=LAYOUT  
+-----------------------------------------------------------------------------*/
+
+.main{
+        float:left;
+        background: white;
+        width: 59%;
+        padding: 0px 20px;
+        border-radius: 10px 0 10px 10px;
+}
+.sidebar{
+        float:left;
+        margin-left: 1%;
+        border-left: 3px  solid grey;
+        border-bottom: 2px  solid grey; 
+        background: white;
+        width: 40%;
+        padding: 40px;
+        border-radius: 0 10px 10px 0;
+}
+
+/*----------------------------------------------------------------------------- 
+03=MAIN  
+-----------------------------------------------------------------------------*/
+.header, .footer{
+        color: white;
+}
+a{
+        text-decoration: none;
+        font-weight: bolder;
+        color: skyblue;
+}
+h1{
+        font-size: 3.5rem;
+        margin: 40px 0 0 0;
+}
+.sub-heading{
+        margin-bottom: 10px;
+        font-size:1rem; 
+}
+h2{
+        font-size: 2rem;
+}
+h3{
+}
+
+}
+p{
+        padding: 5px;
+}
+.sub-para{
+        color: grey;
+        margin-bottom: 1px;
+}
+hr{
+        color: grey;
+}
+.vishesh{
+        border-radius: 50%;
+        margin-bottom: 20px;
+        width: 100%;
+}
+.font{
+        font-weight: bold;
+        margin-bottom: 50px;
+}
+ul{
+        margin: 10px;
+}
+blockquote{
+        margin: 20px 0;
+        padding: 10px;
+        font-style: italic;
+        border-left: 4px grey solid;
+        background: #ddd;
+}
+
+
+.footer{
+        font-weight: bold;
+        margin: 15px 0;
+}
+.footer p{
+
+        background: rgba(255, 255, 255, 0.3);
+        border-radius: 5px;
+        display: inline-block;
+}
